@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
-
 function Quick()
 {
     //Setting Time complexities
@@ -80,9 +73,3 @@ function quick_sort (start, end )
     }
  }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
